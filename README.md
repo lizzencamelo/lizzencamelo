@@ -1,14 +1,9 @@
 
-:mortar_board: Engineering student 
+Engineering student 
 
-> Technology is nothing  
-but excellent  
->art
+My principles  
+—measured quality   
+—simplistic elegance  
+—artistic integrity
 
-:tulip: 
-
-### My principles :key: 
-- Measured Quality
-- Simplistic Elegance
-- Observation
-
+>Science and art tend to coalesce in aesthetician, plasticity, and form. The greatest scientists are artists as well.
