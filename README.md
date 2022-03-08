@@ -10,7 +10,7 @@
    <br>
    <br>
    <br>
-   <img src="/preview.gif" width="300px">
+   <img src="/previewImage.webp" width="500px">
 </p>
 
 <!--
