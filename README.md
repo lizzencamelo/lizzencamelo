@@ -1,6 +1,6 @@
 <p align="center">
    <br>
-   <img alt="GIF" src="/previewImage.webp" width="500px">
+   <img alt="GIF" src="/preview,gif" width="320px">
    <br>
    <br>
    <samp>Hello there.<br>I'm an engineer in the making.<br><br><b>MY PRINCIPLES</b><br>&mdash;&mdash;measured quality<br>
