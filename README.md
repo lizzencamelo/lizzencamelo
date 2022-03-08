@@ -1,9 +1,7 @@
 <p align="center">
    <br>
-   <br>
    <samp>Hello there.<br>I'm an engineer in the making.<br><br>MY PRINCIPLES<br><br><b>#measuredQuality #simplisticElegance #artisticIntegrity</b><br>
    <br>learning to write efficient<br>& elegant code;<br>to plant a garden is to believe in tomorrow;</samp>
-   <br>
    <br>
    <br>
    <img src="/previewImage.webp" width="500px">
