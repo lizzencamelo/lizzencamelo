@@ -10,8 +10,6 @@
    <br>
    <br>
 </p>
-
 <!--
-[Laurene Boglio](https://giphy.com/boglio)
-[@chemical_sisters](https://giphy.com/chemical_sister)
+   GIF by the @chemical_sisters (https://giphy.com/chemical_sister)
 ->
