@@ -1,6 +1,6 @@
 <p align="center">
    <br>
-   <img alt="GIF" src="/previewImage.webp" width="500px">
+   <img alt="GIF" src="/preview.gif" width="300px">
    <br>
    <br>
    <samp>Hello there.<br>I'm an engineer in the making.<br><br>MY PRINCIPLES<br><br><b>#measuredQuality #simplisticElegance #artisticIntegrity</b><br>
